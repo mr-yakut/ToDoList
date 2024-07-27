@@ -34,6 +34,12 @@ To run the project locally, follow these steps:
 
 Once the application is running, open your browser and go to `http://localhost:5000` to start managing your to-do list.
 
+## Demo Video
+
+To see a demo of the project, you can watch the following video:
+
+[Project Demo Video](https://drive.google.com/file/d/1GWGwMSni2OhLw1umYpcHNxYmY19Tzdvi/view?usp=sharing)
+
 ## Contributing
 
 If you would like to contribute, please submit a pull request or open an issue.
